@@ -1,0 +1,21 @@
+h1{
+    font-family: fantasy;
+}
+.contenedor{
+    text-align: center;
+}
+.operaciones{
+    display: flex;
+}
+.suma{
+    padding-left: 1%;
+}
+.resta{
+    padding-left: 1%;
+}
+.multiplicacion{
+    padding-left: 1%;
+}
+.division{
+    padding-left: 1%;
+}
